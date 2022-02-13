@@ -8,7 +8,7 @@
 
 ![duckduckgo(lion)](https://user-images.githubusercontent.com/71703544/153456636-9ab3719f-d3a1-4135-8f39-bbc0f61fba6f.png)
 
-## installation:
+## installation & usage
         
         git clone https://github.com/SAJAD-net/lion.git
         cd lion
